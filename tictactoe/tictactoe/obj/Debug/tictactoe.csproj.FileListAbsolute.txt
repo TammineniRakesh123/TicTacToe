@@ -1,0 +1,9 @@
+D:\c#Trails\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+D:\c#Trails\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+D:\c#Trails\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+D:\c#Trails\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+D:\c#Trails\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\c#Trails\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\c#Trails\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
+D:\c#Trails\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+D:\c#Trails\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
